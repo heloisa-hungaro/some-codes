@@ -1,0 +1,2 @@
+# Programming Challenges
+Solutions I've developed to some <a href="https://onlinejudge.org/https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=28">Programming Challenges</a> problems (ICPC). All of them were submited to the <a href="https://onlinejudge.org/">UVa online judge</a>
